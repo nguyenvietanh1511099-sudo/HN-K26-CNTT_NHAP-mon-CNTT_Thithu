@@ -6,11 +6,11 @@
 
 | Thư mục | Chức năng |
 |---|---|
-| `docs/` | Chứa tài liệu |
-| `media/` | Chứa hình ảnh, logo |
-| `data/` | Chứa dữ liệu đơn bán |
-| `logs/` | Chứa nhật ký hệ thống |
-| `backup/` | Chứa bản sao lưu |
+| `docs/` | Lưu trữ tài liệu kỹ thuật, hướng dẫn và thông tin nhập hàng|
+| `media/` | Lưu trữ hình ảnh thương hiệu, logo cửa hàng|
+| `data/` |Lưu trữ dữ liệu kinh doanh |
+| `logs/` | Chứa nhật ký hệ thống và báo cáo|
+| `backup/` | Chứa bản sao lưu dự phòng an toàn|
 
 ## Liệt kê dự án
 
