@@ -4,7 +4,7 @@
 
 -  **Mã đề:** Thi thử
 
--  **Họ tên:** Nguyễn Hồng Quân
+-  **Họ tên:** NGUYỄN ANH THƯ
 
 -  **Lớp:** CNTT2
 
