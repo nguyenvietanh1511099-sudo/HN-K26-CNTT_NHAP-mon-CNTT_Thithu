@@ -20,8 +20,8 @@ ls -aR
 
 ## Công việc
 
-- [x] Tạo cấu trúc thư mục
-- [x] Di chuyển và sao lưu logo
-- [ ] Hoàn thành báo cáo log
+- [x] KHỞI TẠO DỰ ÁN
+- [x] QUẢN LÝ DỮ LIỆU
+- [ ] VẬN HÀNH VÀ NHẬT KÝ
 
 > Lưu ý: Không tải file `.env` lên GitHub vì có thể chứa thông tin nhạy cảm.
